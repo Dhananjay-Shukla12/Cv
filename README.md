@@ -1,2 +1,2 @@
 # Cv
-Simple Website using HTML only 
+Simple Website about myself using HTML only 
